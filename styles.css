@@ -1,0 +1,35 @@
+
+body{
+    background-color: powderblue;
+    color: #000;
+}
+h1,h3{
+    color: #66bfbf;
+}
+img{
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+hr{
+    width: 9%;
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    color: #ccc;
+}
+.footer{
+    background-color: #66bfbf;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+a:hover{
+    color: #00ff6a;
+}
